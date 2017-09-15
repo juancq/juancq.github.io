@@ -34,33 +34,6 @@ My research interests are machine learning and evolutionary computation.
 -  C. Miles, J. Quiroz, R. Leigh, and S. J. Louis, “Co-Evolving Influence Map Tree Based Strategy Game Players,” IEEE Symposium on Computational Intelligence and Games, CIG, 2007, pp. 88–95.
 -  F. C. Harris Jr, M. Penick, G. Kelly, J. C. Quiroz, S. M. Dascalu, and B. T. Westphal, “V-FIRE: Virtual Fire in Realistic Environments,” Software Engineering Research and Practice, SERP, 2005, pp. 73–79.
 
+### Code
+Some of the code that I have written can be found here in my [github page](https://github.com/juancq/).
 
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/juancq/juancq.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
