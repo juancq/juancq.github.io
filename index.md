@@ -1,16 +1,10 @@
-## Juan Quiroz
-
-
-### Bio
+## Bio
 
 I got my PhD in Computer Science from the University of Nevada, Reno. After graduation, I spent several years working as a patent agent doing patent preparation and prosecution. I then traveled the world, and got a lecturer position at Sunway University in Malaysia. 
 
 My research interests are machine learning and evolutionary computation. 
 
-### CV
-
-
-### Papers
+## Papers
 
 
 
