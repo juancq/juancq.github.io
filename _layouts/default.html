@@ -15,7 +15,8 @@
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
         <a href="{{ site.google_scholar_url }}" class="btn">Google Scholar</a>
         <a href="{{ site.linkedin_url }}" class="btn">LinkedIn</a>
-        <a href="{{ site.url + site.cv_url }}" class="btn">CV</a>
+        <a href="{{ site.url ~ site.cv_url }}" class="btn">CV</a>
+        <a href="{{ site.cv_url }}" class="btn">CV</a>
 
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
