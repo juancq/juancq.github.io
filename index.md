@@ -7,8 +7,12 @@ My research interests are machine learning and evolutionary computation.
 ## Papers
 
 ### Journal Articles
-- J. C. Quiroz, A. Banerjee, S. M. Dascalu, and S. L. Lau, “Feature Selection for Activity Recognition from Smartphone Accelerometer Data,” Intelligent Automation and Soft Computing, pp. 1-9, 2017.
-- J. C. Quiroz and S. M. Dascalu, “Interactive Shape Perturbation,” International Journal of Computers and Their Applications, vol. 24, no. 1, pp. 4-11, 2017. 
+- **Feature Selection for Activity Recognition from Smartphone Accelerometer Data**  
+J. C. Quiroz, A. Banerjee, S. M. Dascalu, and S. L. Lau  
+Intelligent Automation and Soft Computing, 2017  
+- **Interactive Shape Perturbations** 
+J. C. Quiroz and S. M. Dascalu  
+International Journal of Computers and Their Applications, 2017
 - A. Banerjee, J. C. Quiroz, and I. Abu-Mahfouz, “Statistical Comparison of Feature Sets for Time Series Classification of Dynamic System Response,” ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part B: Mechanical Engineering, vol. 2, No. 4, pp. 041006-041006-8, 2016.
 - A. Banerjee, J. C. Quiroz, and S. J. Louis, “A Computational Model of Collaborative Creativity: A Meta-Design Approach,” International Journal of Knowledge and Systems Science, vol. 2, no. 2, pp. 68–87, April 2011.
 - M. Nicolescu, R. Leigh, A. Olenderski, S. Louis, S. Dascalu, C. Miles, J. Quiroz, and R. Aleson, “A Training Simulation System with Realistic Autonomous Ship Control,” Computational Intelligence, vol. 23, no. 4, pp. 497–516, 2007.
