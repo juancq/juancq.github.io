@@ -1,12 +1,18 @@
-## Welcome to GitHub Pages
+## Juan Quiroz
 
-You can use the [editor on GitHub](https://github.com/juancq/juancq.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Bio
 
-### Markdown
+I got my PhD in Computer Science from the University of Nevada, Reno. After graduation, I spent several years working as a patent agent doing patent preparation and prosecution. I then traveled the world, and got a lecturer position at Sunway University in Malaysia. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My research interests are machine learning and evolutionary computation. 
+
+### CV
+
+
+### Papers
+
+
 
 ```markdown
 Syntax highlighted code block
