@@ -10,12 +10,13 @@ My research interests are machine learning and evolutionary computation.
 - **Feature Selection for Activity Recognition from Smartphone Accelerometer Data**  
 **J. C. Quiroz**, A. Banerjee, S. M. Dascalu, and S. L. Lau  
 Intelligent Automation and Soft Computing, 2017  
-[pdf](https://juancq.github.io/assets/features_accelerometer.pdf).
+[pdf](https://juancq.github.io/assets/features_accelerometer.pdf)
 
 
 - **Interactive Shape Perturbations**  
 **J. C. Quiroz** and S. M. Dascalu  
-International Journal of Computers and Their Applications, 2017
+International Journal of Computers and Their Applications, 2017 
+[pdf](https://arxiv.org/pdf/1706.04077.pdf)
 
 - **Statistical Comparison of Feature Sets for Time Series Classification of Dynamic System Response**  
 A. Banerjee, **J. C. Quiroz**, and I. Abu-Mahfouz  
@@ -78,18 +79,6 @@ Third International Conference on Design Computing and Cognition, DCC 2008 (30% 
 **J. C. Quiroz**, S. J. Louis, A. Shankar, and S. M. Dascalu  
 IEEE Congress on Evolutionary Computation, CEC 2007
 
--  **Software Environment for Research on Evolving User Interface Designs**  
-**J. Quiroz**, A. Shankar, S. M. Dascalu, and S. J. Louis  
-Second International Conference on Software Engineering Advances, ICSEA 2007
-
--  **Sycophant: An API for Research in Context-Aware User Interfaces**  
-Shankar, **J. Quiroz**, S. M. Dascalu, S. J. Louis, and M. N. Nicolescu  
-Second International Conference on Software Engineering Advances, ICSEA 2007
-
--  **An Extensible Architecture for Network-Attached Device Management**  
-M. J. J. McMahon, S. M. Dascalu, F. C. J. Harris, and **J. Quiroz**  
-Second International Conference on Software Engineering Advances, ICSEA 2007
-
 -  **Interactive Evolution of XUL User Interfaces**  
 **J. C. Quiroz**, S. J. Louis, and S. M. Dascalu  
 Genetic and Evolutionary Computation Conference, GECCO 2007
@@ -97,15 +86,6 @@ Genetic and Evolutionary Computation Conference, GECCO 2007
 -  **Human Guided Evolution of XUL User Interfaces**  
 **J. C. Quiroz**, S. M. Dascalu, and S. J. Louis  
 ACM CHI Extended Abstracts on Human Factors in Computing Systems, CHI 2007
-
--  **Co-Evolving Influence Map Tree Based Strategy Game Players**  
-C. Miles, **J. Quiroz**, R. Leigh, and S. J. Louis  
-IEEE Symposium on Computational Intelligence and Games, CIG 2007
-
--  **V-FIRE: Virtual Fire in Realistic Environments**  
-F. C. Harris Jr, M. Penick, G. Kelly, **J. C. Quiroz**, S. M. Dascalu, and B. T. Westphal  
-Software Engineering Research and Practice, SERP 2005
-
 
 ## Code
 Some of the code that I have written can be found here in my [github page](https://github.com/juancq/).
