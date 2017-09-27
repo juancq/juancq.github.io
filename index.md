@@ -1,8 +1,8 @@
 ## Bio
 
-I got my PhD in Computer Science from the University of Nevada, Reno. After graduation, I spent several years working as a patent agent doing patent preparation and prosecution. I then traveled the world, and got a lecturer position at Sunway University in Malaysia. 
+I got my PhD in Computer Science from the University of Nevada, Reno. After receiving my degree, I spent several years working with small law firms as a patent agent doing patent preparation and prosecution of software and hardware inventions. In late 2012 I started traveling the world, and in 2014 I got a lecturer position at Sunway University, Malaysia. I am currently visiting the research lab of Dr. Fineli Doshi-Velez in Harvard for the fall 2017 semester. 
 
-My research interests are machine learning and evolutionary computation. 
+My research interests are in the areas of machine learning and evolutionary computation. 
 
 ## Papers
 
@@ -21,7 +21,8 @@ International Journal of Computers and Their Applications, 2017
 
 - **Statistical Comparison of Feature Sets for Time Series Classification of Dynamic System Response**  
 A. Banerjee, **J. C. Quiroz**, and I. Abu-Mahfouz  
-ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part B: Mechanical Engineering, 2016
+ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part B: Mechanical Engineering, 2016  
+[\[citation\]](http://risk.asmedigitalcollection.asme.org/article.aspx?articleid=2522536)
 
 - **A Computational Model of Collaborative Creativity: A Meta-Design Approach**  
 A. Banerjee, **J. C. Quiroz**, and S. J. Louis  
@@ -35,6 +36,7 @@ Computational Intelligence, 2007
 - **Emotion-Recognition Using Smart Watch Accelerometer Data: Preliminary Findings**  
 **J. C. Quiroz**, M.H. Yong, E. Geangu  
 **Ubicomp** 2017 Workshop on Mental Health: Sensing and Intervention  
+[\[pdf\]](https://arxiv.org/pdf/1709.09148.pdf) 
 [\[citation\]](http://dl.acm.org/citation.cfm?id=3125614)
 
 - **Clustering LaTeX Solutions to Machine Learning Assignments for Rapid Assessment**  
@@ -49,6 +51,7 @@ S. Tan, F. Doshi-Velez, **J. C. Quiroz**, and E. Glassman
 - **Statistical Comparison of Feature Sets for Time Series Classification of Dynamical System Response**  
 A. Banerjee, **J. C. Quiroz**, and I. Abu-Mahfouz  
 ASME 2015 International Mechanical Engineering Congress and Exposition, IMECE 2015
+[\[citation\]](http://proceedings.asmedigitalcollection.asme.org/proceeding.aspx?articleid=2500683)
 
 - **An Overview of Brain Computer Interfaces**  
 A. T. Chan, **J. C. Quiroz**, S. M. Dascalu, and F. C. Harris Jr  
@@ -56,7 +59,7 @@ A. T. Chan, **J. C. Quiroz**, S. M. Dascalu, and F. C. Harris Jr
 
 - **Collaborative Evolution of 3D Models**  
 **J. C. Quiroz**, A. Banerjee, S. J. Louis, and S. M. Dascalu  
-Sixth International Conference on Design Computing and Cognition, DCC 2014 (29% Acceptance Rate)
+Design Computing and Cognition, DCC 2014 (29% Acceptance Rate)
 
 - **3-D Modeling Using Collaborative Evolution**  
 **J. C. Quiroz**, A. Banerjee, and S. J. Louis  
@@ -64,7 +67,7 @@ Extended Abstract in Genetic and Evolutionary Computation Conference, GECCO 2012
 
 - **Document Design with Interactive Evolution**  
 **J. C. Quiroz**, A. Banerjee, S. J. Louis, and S. M. Dascalu  
-2nd International Symposium on Intelligent Interactive Multimedia Systems and Services, KES IIMSS 2009
+Intelligent Interactive Multimedia Systems and Services, KES IIMSS 2009
 
 - **Towards Creative Design Using Collaborative Interactive Genetic Algorithms**  
 **J. C. Quiroz**, S. J. Louis, A. Banerjee, and S. M. Dascalu  
@@ -76,7 +79,7 @@ Extended Abstract in Genetic and Evolutionary Computation Conference, GECCO 2008
 
 -  **A Model of Creative Design Using Collaborative Interactive Genetic Algorithms**  
 A. Banerjee, **J. C. Quiroz**, and S. J. Louis  
-Third International Conference on Design Computing and Cognition, DCC 2008 (30% Acceptance Rate)
+Design Computing and Cognition, DCC 2008 (30% Acceptance Rate)
 
 -  **Interactive Genetic Algorithms for User Interface Design**  
 **J. C. Quiroz**, S. J. Louis, A. Shankar, and S. M. Dascalu  
