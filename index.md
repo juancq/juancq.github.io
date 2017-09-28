@@ -1,6 +1,6 @@
 ## Bio
 
-I got my PhD in Computer Science from the University of Nevada, Reno. After receiving my degree, I spent several years working with small law firms as a patent agent doing patent preparation and prosecution of software and hardware inventions. In late 2012 I started traveling the world, and in 2014 I got a lecturer position at Sunway University, Malaysia. I am currently visiting the research lab of Dr. Fineli Doshi-Velez in Harvard for the fall 2017 semester. 
+I got my PhD in Computer Science from the University of Nevada, Reno. After receiving my degree, I spent several years working with small law firms as a patent agent doing patent preparation and prosecution of software and hardware inventions. In late 2012 I started traveling the world, and in 2014 I got a lecturer position at Sunway University, Malaysia. I am currently visiting the research lab of Dr. Finale Doshi-Velez in Harvard for the fall 2017 semester. 
 
 My research interests are in the areas of machine learning and evolutionary computation. 
 

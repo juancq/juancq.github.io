@@ -14,11 +14,18 @@
     <meta name="google-site-verification" content="mcNSwxvwjRu11zQy7bCsg8yodu_-LOPTdpmz2sHkcbk" />
   </head>
   <body>
-    <section class="page-header">
+    <section class="page-header" style='background-image:url("assets/header.jpg"); background-size:100% 100%; color: #222222'>
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
 
 
-        <a href="{{ site.google_scholar_url }}" class="btn">Google Scholar</a>
+	<style type="text/css">
+	.btn {
+	    background-color: rgba(255, 255, 255, 0.8); 
+	    color: rgba(0, 0, 0, 1.0); 
+	    border-color: rgba(0, 0, 0, 0.5);
+	}
+	</style>
+        <a href="{{ site.google_scholar_url }}" class="btn" bgcolor='red'>Google Scholar</a>
         <a href="{{ site.linkedin_url }}" class="btn">LinkedIn</a>
         <a href="{{ site.cv_url }}" class="btn">CV</a>
 
