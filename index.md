@@ -53,17 +53,10 @@ A. Banerjee, **J. C. Quiroz**, and I. Abu-Mahfouz
 ASME 2015 International Mechanical Engineering Congress and Exposition, IMECE 2015
 [\[citation\]](http://proceedings.asmedigitalcollection.asme.org/proceeding.aspx?articleid=2500683)
 
-- **An Overview of Brain Computer Interfaces**  
-A. T. Chan, **J. C. Quiroz**, S. M. Dascalu, and F. C. Harris Jr  
-30th International Conference on Computers and their Applications, CATA 2015
-
 - **Collaborative Evolution of 3D Models**  
 **J. C. Quiroz**, A. Banerjee, S. J. Louis, and S. M. Dascalu  
 Design Computing and Cognition, DCC 2014 (29% Acceptance Rate)
 
-- **3-D Modeling Using Collaborative Evolution**  
-**J. C. Quiroz**, A. Banerjee, and S. J. Louis  
-Extended Abstract in Genetic and Evolutionary Computation Conference, GECCO 2012
 
 - **Document Design with Interactive Evolution**  
 **J. C. Quiroz**, A. Banerjee, S. J. Louis, and S. M. Dascalu  
@@ -72,10 +65,6 @@ Intelligent Interactive Multimedia Systems and Services, KES IIMSS 2009
 - **Towards Creative Design Using Collaborative Interactive Genetic Algorithms**  
 **J. C. Quiroz**, S. J. Louis, A. Banerjee, and S. M. Dascalu  
 IEEE Congress on Evolutionary Computation, CEC 2009 (Nominated for Best Student Paper)
-
--  **IGAP: Interactive Genetic Algorithm Peer to Peer**  
-**J. C. Quiroz**, A. Banerjee, and S. J. Louis  
-Extended Abstract in Genetic and Evolutionary Computation Conference, GECCO 2008
 
 -  **A Model of Creative Design Using Collaborative Interactive Genetic Algorithms**  
 A. Banerjee, **J. C. Quiroz**, and S. J. Louis  
