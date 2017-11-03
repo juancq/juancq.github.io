@@ -2,17 +2,22 @@
 
 I got my PhD in Computer Science from the University of Nevada, Reno. After receiving my degree, I spent several years working with small law firms as a patent agent doing patent preparation and prosecution of software and hardware inventions. In late 2012 I started traveling the world, and in 2014 I got a lecturer position at Sunway University, Malaysia. I am currently visiting the research lab of Dr. Finale Doshi-Velez in Harvard for the fall 2017 semester. 
 
-My research interests are in the areas of machine learning and evolutionary computation. 
+My research interests are in the areas of applied machine learning, affective computing, and evolutionary computation. 
 
 ## Papers
 
 ### Journal Articles
+- **Fault Detection of Broken Rotor Bar in LS-PMSM Using Random Forests**  
+**J. C. Quiroz**, J. C. Quiroz, N. Mariun, M. A. M. Radzi, and N. Misron  
+Accepted to Measurement, 2017  
+[\[pdf\]](https://juancq.github.io/assets/rotor_fault_rf.pdf)
+
+
 - **Feature Selection for Activity Recognition from Smartphone Accelerometer Data**  
 **J. C. Quiroz**, A. Banerjee, S. M. Dascalu, and S. L. Lau  
 Intelligent Automation and Soft Computing, 2017  
 [\[pdf\]](https://juancq.github.io/assets/features_accelerometer.pdf)
 [\[citation\]](http://www.tandfonline.com/doi/abs/10.1080/10798587.2017.1342400)
-
 
 - **Interactive Shape Perturbations**  
 **J. C. Quiroz** and S. M. Dascalu  
