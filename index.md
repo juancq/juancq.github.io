@@ -8,9 +8,10 @@ My research interests are in the areas of applied machine learning, affective co
 
 ### Journal Articles
 - **Fault Detection of Broken Rotor Bar in LS-PMSM Using Random Forests**  
-**J. C. Quiroz**, J. C. Quiroz, N. Mariun, M. A. M. Radzi, and N. Misron  
+**J. C. Quiroz**, N. Mariun, M. A. M. Radzi, and N. Misron  
 Accepted to Measurement, 2017  
-[\[pdf\]](https://juancq.github.io/assets/rotor_fault_rf.pdf)
+[\[pdf\]](https://arxiv.org/pdf/1711.02510)
+[\[citation\]]()
 
 
 - **Feature Selection for Activity Recognition from Smartphone Accelerometer Data**  
