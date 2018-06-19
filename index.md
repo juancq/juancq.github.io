@@ -1,12 +1,22 @@
 ## Bio
 
-I got my PhD in Computer Science from the University of Nevada, Reno. After receiving my degree, I spent several years working with small law firms as a patent agent doing patent preparation and prosecution of software and hardware inventions. In late 2012 I started traveling the world, and in 2014 I got a lecturer position at Sunway University, Malaysia. I am currently a visiting fellow at the University of Nevada, Reno for the spring 2018 semester. In the summer I will be joining Macquarie University in Sydney as a research fellow.
+I am a research fellow at the Australian Institute of Health Innovation at Macquarie University.
+My current research is on machine learning for making the jobs of doctors easier.
+
+I got my PhD in Computer Science from the University of Nevada, Reno. After receiving my degree, I spent several years working with small law firms as a patent agent doing patent preparation and prosecution of software and hardware inventions. In late 2012 I started traveling the world, and in 2014 I got a lecturer position at Sunway University, Malaysia. 
 
 My research interests are in the areas of applied machine learning, affective computing, and evolutionary computation. 
 
 ## Papers
 
 ### Journal Articles
+- **Emotion-Recognition Using Smart Watch Sensor Data: Mixed-Design Study**
+**J. C. Quiroz**, E. Geangu, M.H. Yong 
+JMIR, 2018  
+[\[pdf\]](https://www.researchgate.net/publication/325254600_Emotion-Recognition_Using_Smart_Watch_Sensor_Data_Mixed-Design_Study)
+#[\[citation\]](https://doi.org/10.1016/j.measurement.2017.11.004)
+
+
 - **Fault Detection of Broken Rotor Bar in LS-PMSM Using Random Forests**  
 **J. C. Quiroz**, N. Mariun, M. A. M. Radzi, and N. Misron  
 Measurement, 2017  
