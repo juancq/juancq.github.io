@@ -11,7 +11,7 @@ My research interests are in the areas of applied machine learning, affective co
 
 ### Journal Articles
 - **Emotion-Recognition Using Smart Watch Sensor Data: Mixed-Design Study**  
-**J. C. Quiroz**, E. Geangu, M.H. Yong 
+**J. C. Quiroz**, E. Geangu, M.H. Yong  
 JMIR, 2018  
 [\[pdf\]](https://www.researchgate.net/publication/325254600_Emotion-Recognition_Using_Smart_Watch_Sensor_Data_Mixed-Design_Study)
 
