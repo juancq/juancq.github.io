@@ -13,7 +13,9 @@ My research interests are in the areas of applied machine learning, affective co
 - **Emotion-Recognition Using Smart Watch Sensor Data: Mixed-Design Study**  
 **J. C. Quiroz**, E. Geangu, M.H. Yong  
 JMIR Mental Health, 2018  
-[\[pdf\]](https://www.researchgate.net/publication/325254600_Emotion-Recognition_Using_Smart_Watch_Sensor_Data_Mixed-Design_Study)
+[\[pdf\]](https://mental.jmir.org/2018/3/e10153/pdf)
+[\[citation\]](http://doi.org/10.2196/10153)
+[\[code\]](https://github.com/juancq/emotion-recognition-walking-acc)
 
 
 - **Fault Detection of Broken Rotor Bar in LS-PMSM Using Random Forests**  
@@ -41,7 +43,10 @@ ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part B: Mechan
 
 - **A Computational Model of Collaborative Creativity: A Meta-Design Approach**  
 A. Banerjee, **J. C. Quiroz**, and S. J. Louis  
-International Journal of Knowledge and Systems Science, 2011
+International Journal of Knowledge and Systems Science, 2011  
+[\[pdf\]](https://juancq.github.io/assets/ijkss_creativity.pdf)
+[\[citation\]](https://doi.org/10.4018/jkss.2011040105)
+
 
 - **A Training Simulation System with Realistic Autonomous Ship Control**  
 M. Nicolescu, R. Leigh, A. Olenderski, S. Louis, S. Dascalu, C. Miles, **J. Quiroz**, and R. Aleson  
@@ -53,6 +58,7 @@ Computational Intelligence, 2007
 **Ubicomp** 2017 Workshop on Mental Health: Sensing and Intervention  
 [\[pdf\]](https://arxiv.org/pdf/1709.09148.pdf) 
 [\[citation\]](http://dl.acm.org/citation.cfm?id=3125614)
+[\[code\]](https://github.com/juancq/emotion-recognition-walking-acc)
 
 - **Clustering LaTeX Solutions to Machine Learning Assignments for Rapid Assessment**  
 S. Tan, F. Doshi-Velez, **J. C. Quiroz**, and E. Glassman  
@@ -65,7 +71,7 @@ S. Tan, F. Doshi-Velez, **J. C. Quiroz**, and E. Glassman
 
 - **Statistical Comparison of Feature Sets for Time Series Classification of Dynamical System Response**  
 A. Banerjee, **J. C. Quiroz**, and I. Abu-Mahfouz  
-ASME 2015 International Mechanical Engineering Congress and Exposition, IMECE 2015
+ASME 2015 International Mechanical Engineering Congress and Exposition, IMECE 2015  
 [\[citation\]](http://proceedings.asmedigitalcollection.asme.org/proceeding.aspx?articleid=2500683)
 
 - **Collaborative Evolution of 3D Models**  
