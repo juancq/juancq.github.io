@@ -16,7 +16,7 @@ My research interests are in the areas of applied machine learning, affective co
 JMIR Mental Health, 2018  
 [\[pdf\]](https://mental.jmir.org/2018/3/e10153/pdf)
 [\[citation\]](http://doi.org/10.2196/10153)
-[\[code\]](https://github.com/juancq/emotion-recognition-walking-acc)
+[\[code\]](https://github.com/juancq/emotion-recognition-smartwatch)
 
 
 - **Fault Detection of Broken Rotor Bar in LS-PMSM Using Random Forests**  
@@ -59,7 +59,7 @@ Computational Intelligence, 2007
 **Ubicomp** 2017 Workshop on Mental Health: Sensing and Intervention  
 [\[pdf\]](https://arxiv.org/pdf/1709.09148.pdf) 
 [\[citation\]](http://dl.acm.org/citation.cfm?id=3125614)
-[\[code\]](https://github.com/juancq/emotion-recognition-walking-acc)
+[\[code\]](https://github.com/juancq/emotion-recognition-smartwatch)
 
 - **Clustering LaTeX Solutions to Machine Learning Assignments for Rapid Assessment**  
 S. Tan, F. Doshi-Velez, **J. C. Quiroz**, and E. Glassman  
