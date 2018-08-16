@@ -1,9 +1,9 @@
 ## Bio
 
-I am a research fellow at the Australian Institute of Health Innovation at Macquarie University.
-My current research is on machine learning for making the jobs of doctors easier.
+I am a [research fellow](https://researchers.mq.edu.au/en/persons/juan-quiroz-aguilera) at the [Australian Institute of Health Innovation](https://www.mq.edu.au/research/research-centres-groups-and-facilities/healthy-people/centres/australian-institute-of-health-innovation) at [Macquarie University](https://www.mq.edu.au/).
+My current research is on using machine learning for making the jobs of doctors easier.
 
-I got my PhD in Computer Science from the University of Nevada, Reno. After receiving my degree, I spent several years working with small law firms as a patent agent doing patent preparation and prosecution of software and hardware inventions. In late 2012 I started traveling the world, and in 2014 I got a lecturer position at Sunway University, Malaysia. 
+I got my PhD in Computer Science from the [University of Nevada, Reno](https://www.unr.edu/). After receiving my degree, I spent several years working with small law firms as a patent agent doing patent preparation and prosecution of software and hardware inventions. In late 2012 I started traveling the world, and in 2014 I got a lecturer position at [Sunway University](https://university.sunway.edu.my/), Malaysia. 
 
 My research interests are in the areas of applied machine learning, affective computing, and evolutionary computation. 
 
