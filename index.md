@@ -77,7 +77,7 @@ ASME 2015 International Mechanical Engineering Congress and Exposition, IMECE 20
 
 - **Collaborative Evolution of 3D Models**  
 **J. C. Quiroz**, A. Banerjee, S. J. Louis, and S. M. Dascalu  
-Design Computing and Cognition, DCC 2014 (29% Acceptance Rate)  
+Design Computing and Cognition, DCC 2014  
 [\[pdf\]](https://juancq.github.io/assets/dcc_3d_modeling.pdf)
 [\[citation\]](https://doi.org/10.1007/978-3-319-14956-1_28)
 
@@ -88,11 +88,11 @@ Intelligent Interactive Multimedia Systems and Services, KES IIMSS 2009
 
 - **Towards Creative Design Using Collaborative Interactive Genetic Algorithms**  
 **J. C. Quiroz**, S. J. Louis, A. Banerjee, and S. M. Dascalu  
-IEEE Congress on Evolutionary Computation, CEC 2009 (Nominated for Best Student Paper)
+IEEE Congress on Evolutionary Computation, CEC 2009  
 
 - **A Model of Creative Design Using Collaborative Interactive Genetic Algorithms**  
 A. Banerjee, **J. C. Quiroz**, and S. J. Louis  
-Design Computing and Cognition, DCC 2008 (30% Acceptance Rate)  
+Design Computing and Cognition, DCC 2008   
 [\[pdf\]](https://juancq.github.io/assets/ciga.pdf)
 [\[citation\]](https://doi.org/10.1007/978-1-4020-8728-8_21)
 
