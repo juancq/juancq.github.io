@@ -11,6 +11,28 @@ My research interests are in the areas of applied machine learning, affective co
 ## Papers
 
 ### Journal Articles
+- **Challenges of Developing a Digital Scribe to Reduce Clinical Documentation Burden**   
+**J.C. Quiroz** et al.  
+npj Digital Medicine, 2019   
+[\[citation\]](https://doi.org/10.1038/s41746-019-0190-1)
+
+
+- **Personalization of Conversational Agents in Healthcare: A Systematic Review**  
+A.B. Kocaballi, S. Berkovsky, **J.C. Quiroz**, L. Laranjo, H.L. Tong, F. Rezazadegan, A. Briatore, E. Coiera  
+JMIR, 2019  
+
+
+- **A network model of activities in primary care consultations**  
+A.B. Kocaballi, E. Coiera, H.L. Tong, S. White, **J.C. Quiroz**, F. Rezazadegan, S. Willcock, L. Laranjo  
+Journal of the American Medical Informatics Association, 2019  
+
+
+- **Efficacy of a mobile social networking intervention in promoting physical activity: Quasi-experimental study**  
+H.L. Tong, E. Coiera, W. Tong, Y. Wang, **J.C. Quiroz**, P. Martin, L. Laranjo  
+JMIR Mhealth Uhealth, 2019  
+[\[citation\]](https://doi.org/10.2196/12181)
+
+
 - **Emotion-Recognition Using Smart Watch Sensor Data: Mixed-Design Study**  
 **J. C. Quiroz**, E. Geangu, M.H. Yong  
 JMIR Mental Health, 2018  
